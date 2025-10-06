@@ -535,23 +535,23 @@
     </style>
 </head>
 <body>
-    <!-- Header -->
-    <header id="header">
-        <div class="container header-container">
-            <a href="#" class="logo">Банный <span>Лист</span></a>
-            <button class="mobile-menu-btn">☰</button>
-            <nav id="nav">
-                <ul>
-                    <li><a href="#hero">Главная</a></li>
+<!-- Header -->
+<header id="header">
+<div class="container header-container">
+<a href="#" class="logo">Банный <span>Лист</span></a>
+<button class="mobile-menu-btn">☰</button>
+<nav id="nav">
+<ul>
+<li><a href="#hero">Главная</a></li>
                     <li><a href="#products">Наши бани</a></li>
                     <li><a href="#accessories">Аксессуары</a></li>
                     <li><a href="#gallery">Галерея</a></li>
                     <li><a href="#about">О нас</a></li>
                     <li><a href="#contact">Контакты</a></li>
-                </ul>
-            </nav>
-        </div>
-    </header>
+</ul>
+</nav>
+</div>
+</header>
 
     <!-- Hero Section -->
     <section class="hero" id="hero">
