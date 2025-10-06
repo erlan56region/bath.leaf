@@ -2,16 +2,17 @@
 Элитные бани собственного производства
 Создаем уникальные бани премиум-класса из отборных пород дерева с полным комплектом аксессуаров для вашего комфорта
 
+<!DOCTYPE html>
 <html lang="ru">
 <head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Банный Двор - Бани премиум-класса собственного производства</title> 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Банный Лист - Бани премиум-класса собственного производства</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     <style>
-    :root {
+        :root {
             --primary: #2A6B3F;
             --primary-dark: #1E4E2C;
             --accent: #D8A556;
@@ -537,7 +538,7 @@
     <!-- Header -->
     <header id="header">
         <div class="container header-container">
-            <a href="#" class="logo">Банный <span>Двор</span></a>
+            <a href="#" class="logo">Банный <span>Лист</span></a>
             <button class="mobile-menu-btn">☰</button>
             <nav id="nav">
                 <ul>
@@ -776,7 +777,7 @@
         <div class="container">
             <div class="footer-container">
                 <div class="footer-about">
-                    <a href="#" class="footer-logo">Банный <span>Двор</span></a>
+                    <a href="#" class="footer-logo">Банный <span>Лист</span></a>
                     <p>Создаем элитные бани из отборных пород дерева с 2008 года. Собственное производство, гарантия качества.</p>
                 </div>
                 <div class="footer-links">
